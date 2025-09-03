@@ -29,12 +29,6 @@ SAC training environment with different buffer configurations
 Pure PID controller implementation
 - Core PID controller code and demonstration results
 
-### `results/`
-Training results and model files for all controllers
-- `Pure_SAC/`: Pure SAC results
-- `SAC-PID-15000000/`: SAC-PID hybrid controller results
-- `SAC_PID/`: SAC-PID training data
-
 ### `rl_pid/`
 Reinforcement learning combined with PID implementation
 - RL-PID controller code, training scripts, and results
